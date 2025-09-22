@@ -8,4 +8,4 @@ CREATE TABLE ITEMS (
 INSERT INTO ITEMS (NAME, PRICE, WEIGHT) VALUES ('やくそう', 5, 2);
 INSERT INTO ITEMS (NAME, PRICE, WEIGHT) VALUES ('どくけしそう', 7, 2);
 --更新
--- コミットの練習　竹谷
+-- コミットの練習
